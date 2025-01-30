@@ -38,11 +38,11 @@ Creating a bar chart to show the frequency of top words based on CountVectorizer
 
 # Installation
 Clone the repository:
-git clone https://github.com/your-username/restaurant-sentiment-analysis.git
+git clone https://github.com/pramukhprajapati17/sentiment-analysis.git
 
 Install the required libraries:
 pip install pandas nltk scikit-learn matplotlib wordcloud numpy
-Open the notebook (Sentiment.ipynb) in Google Colab to run the code.
+Open the notebook (Sentiment.ipynb) in any code editor to run the code.
 
 # Usage
 Data Input:
