@@ -1,4 +1,4 @@
-# sentiment-analysis
+# Sentiment-analysis
 sentiment analysis on restaurant reviews
 Overview
 This project involves analyzing restaurant reviews using Natural Language Processing (NLP) and Machine Learning techniques to classify customer reviews as positive or negative. The analysis provides insights into customer sentiments and helps restaurants improve their services and customer experience.
@@ -39,9 +39,8 @@ Creating a bar chart to show the frequency of top words based on CountVectorizer
 # Installation
 Clone the repository:
 git clone https://github.com/your-username/restaurant-sentiment-analysis.git
+
 Install the required libraries:
-
-
 pip install pandas nltk scikit-learn matplotlib wordcloud numpy
 Open the notebook (Sentiment.ipynb) in Google Colab to run the code.
 
